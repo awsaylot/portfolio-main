@@ -8,7 +8,7 @@ export default function Contact() {
 	return (
 		<div className='section' id='contact'>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+				Please fill out your information in order to send me an email for more information.
 			</p>
 			<ContactForm />
 		</div>
